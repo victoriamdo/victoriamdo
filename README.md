@@ -18,12 +18,12 @@ Automation QA Engineer | CT-TAE | CTFL-AT
 
 Working with QA since 2018, focusing on test automation for various clients and products, from Back to Front End, Web to Mobile, both native and hybrid, and databases, functional and non-functional tests. Graduated as a Technologist in Games Development in 2016, and Computer Technician in 2012.
 
-*   🌍  I'm based in São Paulo, Brazil
+*   🌍  I'm based in São Paulo, Brazil
 *   💬  Check my [pronouns page](https://pronouns.page/@Vic_Walker)
-*   🎮  See my game portfolio at [itch.io](http://vicwalker.itch.io)
+*   🎮  See my game portfolio at [itch.io](http://vicwalker.itch.io)
 *   🖥️  I'm currently working full-time from home
-*   📫  You can reach me at my socials below (for faster response, use Twitter/X)
-*   🧠  I'm learning Back End and Data Science
+*   📫  You can reach me at my socials below (for faster response, use Twitter/X)
+*   🧠  I'm learning Back End and Data Science
 *   🌱  I want to learn how to do Accessibility Tests
 *   😍  I love Virtual, Augmented, and Mixed Realities, and I want to develop again with them
 *   ⚡  I like to keep up with new technology
@@ -33,6 +33,16 @@ Working with QA since 2018, focusing on test automation for various clients and 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
 </p>
+
+#### Test Framework
+*   📱   Appium
+*   🖥️  Cucumber
+*   💾  Datatest
+*   🖥️  JUnit
+*   🖥️  Karate DSL
+*   💾  PyTest
+*   💻  Selenium
+*   🖥️  SpecFlow
 
 ### Socials
 <p align="left">
