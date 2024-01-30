@@ -41,6 +41,7 @@ Working with QA since 2018, focusing on test automation for various clients and 
 *   🖥️  JUnit
 *   🖥️  Karate DSL
 *   💾  PyTest
+*   🖥️  Rest Assured
 *   💻  Selenium
 *   🖥️  SpecFlow
 
