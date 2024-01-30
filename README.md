@@ -9,7 +9,7 @@
 - ⚡ Fun fact: ...
 -->
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Victoria
+Hi 👋 My name is Victoria
 ================================================================================================================================
 
 Automation QA Engineer | CT-TAE | CTFL-AT
@@ -17,7 +17,7 @@ Automation QA Engineer | CT-TAE | CTFL-AT
 
 Working with QA since 2018, focusing on test automation for various clients and products, from Back to Front End, Web to Mobile, both native and hybrid, and databases, functional and non-functional tests. Graduated as a Technologist in Games Development in 2016, and Computer Technician in 2012.
 
-*   🌍  I'm based in São Paulo
+*   🌍  I'm based in São Paulo, Brazil
 *   💬  My [pronouns page](https://pronouns.page/@Vic_Walker)
 *   🖥️  See my game portfolio at [itch.io](http://vicwalker.itch.io)
 *   📫  You can reach me at my socials below
