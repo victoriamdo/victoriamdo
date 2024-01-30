@@ -7,6 +7,7 @@
 - ✉️ You can contact me at ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🖥️ ...
 -->
 
 Hi 👋 My name is Victoria
@@ -18,13 +19,15 @@ Automation QA Engineer | CT-TAE | CTFL-AT
 Working with QA since 2018, focusing on test automation for various clients and products, from Back to Front End, Web to Mobile, both native and hybrid, and databases, functional and non-functional tests. Graduated as a Technologist in Games Development in 2016, and Computer Technician in 2012.
 
 *   🌍  I'm based in São Paulo, Brazil
-*   💬  My [pronouns page](https://pronouns.page/@Vic_Walker)
-*   🖥️  See my game portfolio at [itch.io](http://vicwalker.itch.io)
-*   📫  You can reach me at my socials below
+*   💬  Check my [pronouns page](https://pronouns.page/@Vic_Walker)
+*   🎮  See my game portfolio at [itch.io](http://vicwalker.itch.io)
+*   🖥️  I'm currently working full-time from home
+*   📫  You can reach me at my socials below (for faster response, use Twitter/X)
 *   🧠  I'm learning Back End and Data Science
 *   🌱  I want to learn how to do Accessibility Tests
 *   😍  I love Virtual, Augmented, and Mixed Realities, and I want to develop again with them
 *   ⚡  I like to keep up with new technology
+*   🤝  I'm open to collaborating on Open Source Projects
 
 ### Skills 
 <p align="left">
