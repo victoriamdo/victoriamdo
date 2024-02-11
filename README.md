@@ -18,6 +18,12 @@ Automation QA Engineer | CT-TAE | CTFL-AT
 
 Working with QA since 2018, focusing on test automation for various clients and products, from Back to Front End, Web to Mobile, both native and hybrid, and databases, functional and non-functional tests. Graduated as a Technologist in Games Development in 2016, and Computer Technician in 2012.
 
+###
+
+<img align="right" height="200" src="./icons/-dn97zl.jpg" alt="Drawing of a white person, white and pink medium hair, blue eyes, big glasses, wearing a brown jacket and a colorful shirt, with a Eeevee (pokémon) over their shoulder" />
+
+###
+
 *   🌍  I'm based in São Paulo, Brazil
 *   💬  Check my [pronouns page](https://pronouns.page/@Vic_Walker)
 *   🎮  See my game portfolio at [itch.io](http://vicwalker.itch.io)
