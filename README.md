@@ -13,23 +13,24 @@
 Hi 👋 My name is Victoria
 ================================================================================================================================
 
-Automation QA Engineer | CT-TAE | CTFL-AT
+QA Engineer | CT-TAE | CTFL-AT
 -----------------------------------------
 
 Working with QA since 2018, focusing on test automation for various clients and products, from Back to Front End, Web to Mobile, both native and hybrid, and databases, functional and non-functional tests. Graduated as a Technologist in Games Development in 2016, and Computer Technician in 2012.
 
 ###
 
-<img align="right" height="200" src="./icons/made-by-alphajn.jpg" alt="Drawing of a white person, white and pink medium hair, blue eyes, big glasses, wearing a brown jacket and a colorful shirt, with a Eeevee (pokémon) over their shoulder" />
+<img align="right" height="200" src="./icons/made-by-alphajn.jpg" alt="Drawing of a white person, gray and pink medium hair, blue eyes, big glasses, wearing a brown jacket and a colorful shirt, with a Eeevee (pokémon) over their shoulder" />
 
 ###
 
 *   🌍  I'm based in São Paulo, Brazil
 *   💬  Check my [pronouns page](https://pronouns.page/@Vic_Walker)
+*   🗣️ I speak Portuguese, English, and Spanish, and I'm learning French
 *   🎮  See my game portfolio at [itch.io](http://vicwalker.itch.io)
 *   🖥️  I'm currently working full-time from home
-*   📫  You can reach me at my socials below (for faster response, use Twitter/X or Bluesky)
-*   🧠  I'm learning Data Science and Discord Bots
+*   📫  You can reach me at my socials below (for faster response, use Bluesky)
+*   🧠  I'm currently learning about Data Science, Discord Bots, ATproto
 *   🌱  I want to learn how to do Accessibility Tests
 *   😍  I love Virtual, Augmented, and Mixed Realities, and I want to develop again with them
 *   ⚡  I like to keep up with new technology
@@ -143,12 +144,6 @@ Working with QA since 2018, focusing on test automation for various clients and 
 <source media="(prefers-color-scheme: dark)" srcset="./icons/socials/linkedin-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="./icons/socials/linkedin.svg" />
 <img src="./icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-</picture></a>
-<a href="https://www.x.com/Vic_Walker" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="./icons/socials/twitter-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="./icons/socials/twitter.svg" />
-<img src="./icons/socials/twitter.svg" width="32" height="32" alt="Twitter (X)" />
 </picture></a>
 <a href="https://bsky.app/profile/vicwalker.bsky.social" target="_blank" rel="noreferrer">
 <picture>
