@@ -133,12 +133,6 @@ Working with QA since 2018, focusing on test automation for various clients and 
 
 ### Socials
 <p align="left">
-<a href="https://www.github.com/VictoriaMachado" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="./icons/socials/github-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="./icons/socials/github.svg" />
-<img src="./icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-</picture></a>
 <a href="https://www.linkedin.com/in/victoriamoliveira" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./icons/socials/linkedin-dark.svg" />
