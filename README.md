@@ -16,11 +16,11 @@ Hi 👋 My name is Victoria
 QA Engineer | CT-TAE | CTFL-AT
 -----------------------------------------
 
-Working with QA since 2018, focusing on test automation for various clients and products, from Back to Front End, Web to Mobile, both native and hybrid, and databases, functional and non-functional tests. Graduated as a Technologist in Games Development in 2016, and Computer Technician in 2012.
+Working with QA since 2018, focusing on test automation for various clients and products, from Back to Front End, Web to Mobile, both native and hybrid, and data quality, functional and non-functional tests. Graduated as a Technologist in Games Development in 2016, and Computer Technician in 2012.
 
 ###
 
-<img align="right" height="200" src="./icons/made-by-alphajn.jpg" alt="Drawing of a white person, gray and pink medium hair, blue eyes, big glasses, wearing a brown jacket and a colorful shirt, with a Eeevee (pokémon) over their shoulder" />
+<img align="right" height="200" src="./icons/made-by-alphajn.jpg" alt="Drawing of a white person, gray and pink medium hair, blue eyes, big glasses, wearing a brown jacket and a colorful shirt, with an Eeevee (pokémon) over their shoulder" />
 
 ###
 
