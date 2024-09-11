@@ -13,7 +13,7 @@
 Hi 👋 My name is Victoria
 ================================================================================================================================
 
-QA Engineer | CT-TAE | CTFL-AT
+QA Engineer | CTFL-AT | CTAL-TAE
 -----------------------------------------
 
 Working with QA since 2018, focusing on test automation for various clients and products, from Back to Front End, Web to Mobile, both native and hybrid, and data quality, doing functional and non-functional tests. Graduated as a Technologist in Games Development in 2016, and Computer Technician in 2012.
