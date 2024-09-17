@@ -30,7 +30,7 @@ Working with QA since 2018, focusing on test automation for various clients and 
 *   🎮  See my game portfolio at [itch.io](http://vicwalker.itch.io)
 *   🖥️  I'm currently working full-time from home
 *   📫  You can reach me at my socials below (for faster response, use Bluesky)
-*   🧠  I'm currently learning about Data Science, Discord Bots, ATproto
+*   🧠  Learning about Data Science, ATproto
 *   🌱  I want to learn how to do Accessibility Tests
 *   😍  I love Virtual, Augmented, and Mixed Realities, and I want to develop again with them
 *   ⚡  I like to keep up with new technology
