@@ -63,8 +63,8 @@ Working with QA since 2018, focusing on test automation for various clients and 
 <source media="(prefers-color-scheme: dark)" srcset="./icons/skills/html5.svg" />
 <source media="(prefers-color-scheme: light)" srcset="./icons/skills/html5.svg" />
 <img src="./icons/skills/html5.svg" width="36" height="36" alt="HTML 5" />
-</picture></a>
-
+</picture></a></p>
+<p align="left">
 <a href="https://www.karatelabs.io" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./icons/skills/karate-labs-dark.png" />
@@ -113,8 +113,8 @@ Working with QA since 2018, focusing on test automation for various clients and 
 <source media="(prefers-color-scheme: dark)" srcset="./icons/skills/specflow.png" />
 <source media="(prefers-color-scheme: light)" srcset="./icons/skills/specflow.png" />
 <img src="./icons/skills/specflow.png" height="36" alt="SpecFlow" />
-</picture></a>
-
+</picture></a></p>
+<p align="left">
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./icons/skills/selenium-colored.svg" />
@@ -144,8 +144,8 @@ Working with QA since 2018, focusing on test automation for various clients and 
 <source media="(prefers-color-scheme: dark)" srcset="./icons/skills/insomnia.svg" />
 <source media="(prefers-color-scheme: light)" srcset="./icons/skills/insomnia.svg" />
 <img src="./icons/skills/insomnia.svg" width="36" height="36" alt="Insomnia" />
-</picture></a>
-
+</picture></a></p>
+<p align="left">
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./icons/skills/aws-dark.svg" />
@@ -157,8 +157,8 @@ Working with QA since 2018, focusing on test automation for various clients and 
 <source media="(prefers-color-scheme: dark)" srcset="./icons/skills/githubactions-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="./icons/skills/githubactions.svg" />
 <img src="./icons/skills/githubactions-dark.svg" width="36" height="36" alt="GitHub Actions" />
-</picture></a>
-
+</picture></a></p>
+<p align="left">
 <a href="https://maven.apache.org" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./icons/skills/maven-dark.svg" />
@@ -170,8 +170,8 @@ Working with QA since 2018, focusing on test automation for various clients and 
 <source media="(prefers-color-scheme: dark)" srcset="./icons/skills/nodejs-colored.svg" />
 <source media="(prefers-color-scheme: light)" srcset="./icons/skills/nodejs-colored.svg" />
 <img src="./icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
-</picture></a>
-
+</picture></a></p>
+<p align="left">
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./icons/skills/mysql-colored.svg" />
