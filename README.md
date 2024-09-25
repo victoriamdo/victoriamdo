@@ -20,23 +20,19 @@ Working with QA since 2018, focusing on test automation for various clients and 
 
 ###
 
-<img align="right" height="200" src="./icons/made-by-alphajn.jpg" alt="Drawing of a white person, gray and pink medium hair, blue eyes, big glasses, wearing a brown jacket and a colorful shirt, with an Eeevee (pokémon) over their shoulder" />
+* 🌍  I'm based in São Paulo, Brazil
+* 💬  Check my [pronouns page](https://pronouns.page/@Vic_Walker)
+* 🗣️  I speak Portuguese, English, and Spanish, and I'm learning French
+* 🎮  See my game portfolio at [itch.io](http://vicwalker.itch.io)
+* 🖥️  I'm currently working full-time from home
+* 📫  You can reach me at my socials below (for faster response, use Bluesky)
+* 🧠  Learning about Data Science, ATproto
+* 🌱  I want to learn how to do Accessibility Tests
+* 😍  I love Virtual, Augmented, and Mixed Realities, and I want to develop again with them
+* ⚡  I like to keep up with new technology
+* 🤝  I'm open to collaborating on Open Source Projects
 
-###
-
-*   🌍  I'm based in São Paulo, Brazil
-*   💬  Check my [pronouns page](https://pronouns.page/@Vic_Walker)
-*   🗣️ I speak Portuguese, English, and Spanish, and I'm learning French
-*   🎮  See my game portfolio at [itch.io](http://vicwalker.itch.io)
-*   🖥️  I'm currently working full-time from home
-*   📫  You can reach me at my socials below (for faster response, use Bluesky)
-*   🧠  Learning about Data Science, ATproto
-*   🌱  I want to learn how to do Accessibility Tests
-*   😍  I love Virtual, Augmented, and Mixed Realities, and I want to develop again with them
-*   ⚡  I like to keep up with new technology
-*   🤝  I'm open to collaborating on Open Source Projects
-
-### Skills 
+### Skills
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
 <picture>
@@ -62,17 +58,24 @@ Working with QA since 2018, focusing on test automation for various clients and 
 <source media="(prefers-color-scheme: light)" srcset="./icons/skills/javascript-colored.svg" />
 <img src="./icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
 </picture></a>
-<a href="https://cucumber.io" target="_blank" rel="noreferrer">
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="./icons/skills/cucumber-colored.svg" />
-<source media="(prefers-color-scheme: light)" srcset="./icons/skills/cucumber-colored.svg" />
-<img src="./icons/skills/cucumber-colored.svg" width="36" height="36" alt="Cucumber" />
+<source media="(prefers-color-scheme: dark)" srcset="./icons/skills/html5.svg" />
+<source media="(prefers-color-scheme: light)" srcset="./icons/skills/html5.svg" />
+<img src="./icons/skills/html5.svg" width="36" height="36" alt="HTML 5" />
 </picture></a>
+
 <a href="https://www.karatelabs.io" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./icons/skills/karate-labs-dark.png" />
 <source media="(prefers-color-scheme: light)" srcset="./icons/skills/karate-labs.png" />
 <img src="./icons/skills/karate-labs.png" height="36" alt="Karate" />
+</picture></a>
+<a href="https://cucumber.io" target="_blank" rel="noreferrer">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./icons/skills/cucumber-colored.svg" />
+<source media="(prefers-color-scheme: light)" srcset="./icons/skills/cucumber-colored.svg" />
+<img src="./icons/skills/cucumber-colored.svg" width="36" height="36" alt="Cucumber" />
 </picture></a>
 </picture></a>
 <a href="https://rest-assured.io" target="_blank" rel="noreferrer">
@@ -81,6 +84,37 @@ Working with QA since 2018, focusing on test automation for various clients and 
 <source media="(prefers-color-scheme: light)" srcset="./icons/skills/rest-assured.png" />
 <img src="./icons/skills/rest-assured.png" height="36" alt="REST Assured" />
 </picture></a>
+<a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./icons/skills/cypress-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="./icons/skills/cypress.svg" />
+<img src="./icons/skills/cypress.svg" height="36" alt="Cypress" />
+</picture></a>
+<a href="https://docs.pytest.org/en/stable/" target="_blank" rel="noreferrer">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./icons/skills/pytest.svg" />
+<source media="(prefers-color-scheme: light)" srcset="./icons/skills/pytest.svg" />
+<img src="./icons/skills/pytest.svg" width="36" height="36" alt="PyTest" />
+</picture></a>
+<a href="https://pandas.pydata.org" target="_blank" rel="noreferrer">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./icons/skills/pandas-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="./icons/skills/pandas-colored.svg" />
+<img src="./icons/skills/pandas-colored.svg" width="36" height="36" alt="Pandas" />
+</picture></a>
+<a href="https://robotframework.org/" target="_blank" rel="noreferrer">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./icons/skills/robotframework.svg" />
+<source media="(prefers-color-scheme: light)" srcset="./icons/skills/robotframework.svg" />
+<img src="./icons/skills/robotframework.svg" height="36" alt="Robot Framework" />
+</picture></a>
+<a href="https://specflow.org" target="_blank" rel="noreferrer">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./icons/skills/specflow.png" />
+<source media="(prefers-color-scheme: light)" srcset="./icons/skills/specflow.png" />
+<img src="./icons/skills/specflow.png" height="36" alt="SpecFlow" />
+</picture></a>
+
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./icons/skills/selenium-colored.svg" />
@@ -93,24 +127,38 @@ Working with QA since 2018, focusing on test automation for various clients and 
 <source media="(prefers-color-scheme: light)" srcset="./icons/skills/appium-colored.svg" />
 <img src="./icons/skills/appium-colored.svg" width="36" height="36" alt="Appium" />
 </picture></a>
-<a href="https://pandas.pydata.org" target="_blank" rel="noreferrer">
+<a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="./icons/skills/pandas-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="./icons/skills/pandas-colored.svg" />
-<img src="./icons/skills/pandas-colored.svg" width="36" height="36" alt="Pandas" />
+<source media="(prefers-color-scheme: dark)" srcset="./icons/skills/jmeter-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="./icons/skills/jmeter.svg" />
+<img src="./icons/skills/jmeter.svg" width="36" height="36" alt="Apache JMeter" />
 </picture></a>
-<a href="https://specflow.org" target="_blank" rel="noreferrer">
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="./icons/skills/specflow.png" />
-<source media="(prefers-color-scheme: light)" srcset="./icons/skills/specflow.png" />
-<img src="./icons/skills/specflow.png" height="36" alt="SpecFlow" />
+<source media="(prefers-color-scheme: dark)" srcset="./icons/skills/postman.svg" />
+<source media="(prefers-color-scheme: light)" srcset="./icons/skills/postman.svg" />
+<img src="./icons/skills/postman.svg" width="36" height="36" alt="Postman" />
 </picture></a>
+<a href="https://insomnia.rest/" target="_blank" rel="noreferrer">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./icons/skills/insomnia.svg" />
+<source media="(prefers-color-scheme: light)" srcset="./icons/skills/insomnia.svg" />
+<img src="./icons/skills/insomnia.svg" width="36" height="36" alt="Insomnia" />
+</picture></a>
+
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./icons/skills/aws-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="./icons/skills/aws-colored.svg" />
 <img src="./icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" />
 </picture></a>
+<a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./icons/skills/githubactions-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="./icons/skills/githubactions.svg" />
+<img src="./icons/skills/githubactions-dark.svg" width="36" height="36" alt="GitHub Actions" />
+</picture></a>
+
 <a href="https://maven.apache.org" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./icons/skills/maven-dark.svg" />
@@ -123,11 +171,24 @@ Working with QA since 2018, focusing on test automation for various clients and 
 <source media="(prefers-color-scheme: light)" srcset="./icons/skills/nodejs-colored.svg" />
 <img src="./icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
 </picture></a>
+
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./icons/skills/mysql-colored.svg" />
 <source media="(prefers-color-scheme: light)" srcset="./icons/skills/mysql-colored.svg" />
 <img src="./icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
+</picture></a>
+<a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./icons/skills/aws-dynamodb.svg" />
+<source media="(prefers-color-scheme: light)" srcset="./icons/skills/aws-dynamodb.svg" />
+<img src="./icons/skills/aws-dynamodb.svg" width="36" height="36" alt="Amazon DynamoDB" />
+</picture></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./icons/skills/mongodb.svg" />
+<source media="(prefers-color-scheme: light)" srcset="./icons/skills/mongodb.svg" />
+<img src="./icons/skills/mongodb.svg" width="36" height="36" alt="MongoDB" />
 </picture></a>
 </p>
 
