@@ -18,8 +18,6 @@ QA Engineer | CTFL-AT | CTAL-TAE
 
 Working with QA since 2018, focusing on test automation for various clients and products, from Back to Front End, Web to Mobile, both native and hybrid, and data quality, doing functional and non-functional tests. Graduated as a Technologist in Games Development in 2016, and Computer Technician in 2012.
 
-###
-
 * 🌍  I'm based in São Paulo, Brazil
 * 💬  Check my [pronouns page](https://pronouns.page/@Vic_Walker)
 * 🗣️  I speak Portuguese, English, and Spanish, and I'm learning French
@@ -32,7 +30,8 @@ Working with QA since 2018, focusing on test automation for various clients and 
 * ⚡  I like to keep up with new technology
 * 🤝  I'm open to collaborating on Open Source Projects
 
-### Skills
+## Skills
+### Programming Languages
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
 <picture>
@@ -64,6 +63,8 @@ Working with QA since 2018, focusing on test automation for various clients and 
 <source media="(prefers-color-scheme: light)" srcset="./icons/skills/html5.svg" />
 <img src="./icons/skills/html5.svg" width="36" height="36" alt="HTML 5" />
 </picture></a></p>
+
+### Test Frameworks
 <p align="left">
 <a href="https://www.karatelabs.io" target="_blank" rel="noreferrer">
 <picture>
@@ -114,6 +115,8 @@ Working with QA since 2018, focusing on test automation for various clients and 
 <source media="(prefers-color-scheme: light)" srcset="./icons/skills/specflow.png" />
 <img src="./icons/skills/specflow.png" height="36" alt="SpecFlow" />
 </picture></a></p>
+
+### Test Tools
 <p align="left">
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
 <picture>
@@ -145,6 +148,8 @@ Working with QA since 2018, focusing on test automation for various clients and 
 <source media="(prefers-color-scheme: light)" srcset="./icons/skills/insomnia.svg" />
 <img src="./icons/skills/insomnia.svg" width="36" height="36" alt="Insomnia" />
 </picture></a></p>
+
+### CI/CD Workflows and Pipelines
 <p align="left">
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
 <picture>
@@ -158,6 +163,8 @@ Working with QA since 2018, focusing on test automation for various clients and 
 <source media="(prefers-color-scheme: light)" srcset="./icons/skills/githubactions.svg" />
 <img src="./icons/skills/githubactions-dark.svg" width="36" height="36" alt="GitHub Actions" />
 </picture></a></p>
+
+### Dev Tools
 <p align="left">
 <a href="https://maven.apache.org" target="_blank" rel="noreferrer">
 <picture>
@@ -171,6 +178,8 @@ Working with QA since 2018, focusing on test automation for various clients and 
 <source media="(prefers-color-scheme: light)" srcset="./icons/skills/nodejs-colored.svg" />
 <img src="./icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
 </picture></a></p>
+
+### Databases
 <p align="left">
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
 <picture>
@@ -192,7 +201,7 @@ Working with QA since 2018, focusing on test automation for various clients and 
 </picture></a>
 </p>
 
-### Socials
+## Socials
 <p align="left">
 <a href="https://www.linkedin.com/in/victoriamoliveira" target="_blank" rel="noreferrer">
 <picture>
@@ -214,7 +223,7 @@ Working with QA since 2018, focusing on test automation for various clients and 
 </picture></a>
 </p>
 
-### Profile Status
+## Profile Status
 <p align="left">
 <a href="https://github.com/VictoriaMachado" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictoriaMachado&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </p>
