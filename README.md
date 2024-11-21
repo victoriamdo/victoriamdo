@@ -20,7 +20,7 @@ Working with QA since 2018, focusing on test automation for various clients and 
 
 * 🌍  I'm based in São Paulo, Brazil
 * 💬  Check my [pronouns page](https://pronouns.page/@Vic_Walker)
-* 🗣️  I speak Portuguese, English, and Spanish, and I'm learning French
+* 🗣️  I speak Portuguese, English, Spanish, and I'm learning French
 * 🎮  See my game portfolio at [itch.io](http://vicwalker.itch.io)
 * 🖥️  I'm currently working full-time from home
 * 📫  You can reach me at my socials below (for faster response, use Bluesky)
