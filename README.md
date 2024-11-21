@@ -162,6 +162,12 @@ Working with QA since 2018, focusing on test automation for various clients and 
 <source media="(prefers-color-scheme: dark)" srcset="./icons/skills/githubactions-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="./icons/skills/githubactions.svg" />
 <img src="./icons/skills/githubactions-dark.svg" width="36" height="36" alt="GitHub Actions" />
+</picture></a>
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./icons/skills/jenkins-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="./icons/skills/jenkins.svg" />
+<img src="./icons/skills/jenkins-dark.svg" width="36" height="36" alt="Jenkins" />
 </picture></a></p>
 
 ### Dev Tools
