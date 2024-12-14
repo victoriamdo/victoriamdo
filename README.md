@@ -24,8 +24,8 @@ Working with QA since 2018, focusing on test automation for various clients and 
 * 🎮  See my game portfolio at [itch.io](http://vicwalker.itch.io)
 * 🖥️  I'm currently working full-time from home
 * 📫  You can reach me at my socials below (for faster response, use Bluesky)
-* 🧠  Learning about Data Science, ATproto
-* 🌱  I want to learn how to do Accessibility Tests
+* 🧠  Learning about Data Science, ATproto, and SAP
+* 🌱  I want to learn about Azure
 * 😍  I love Virtual, Augmented, and Mixed Realities, and I want to develop again with them
 * ⚡  I like to keep up with new technology
 * 🤝  I'm open to collaborating on Open Source Projects
@@ -85,12 +85,6 @@ Working with QA since 2018, focusing on test automation for various clients and 
 <source media="(prefers-color-scheme: light)" srcset="./icons/skills/rest-assured.png" />
 <img src="./icons/skills/rest-assured.png" height="36" alt="REST Assured" />
 </picture></a>
-<a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="./icons/skills/cypress-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="./icons/skills/cypress.svg" />
-<img src="./icons/skills/cypress.svg" height="36" alt="Cypress" />
-</picture></a>
 <a href="https://docs.pytest.org/en/stable/" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./icons/skills/pytest.svg" />
@@ -108,6 +102,12 @@ Working with QA since 2018, focusing on test automation for various clients and 
 <source media="(prefers-color-scheme: dark)" srcset="./icons/skills/robotframework.svg" />
 <source media="(prefers-color-scheme: light)" srcset="./icons/skills/robotframework.svg" />
 <img src="./icons/skills/robotframework.svg" height="36" alt="Robot Framework" />
+</picture></a>
+<a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./icons/skills/cypress-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="./icons/skills/cypress.svg" />
+<img src="./icons/skills/cypress.svg" height="36" alt="Cypress" />
 </picture></a>
 <a href="https://specflow.org" target="_blank" rel="noreferrer">
 <picture>
