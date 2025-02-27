@@ -221,12 +221,6 @@ Working with QA since 2018, focusing on test automation for various clients and 
 <source media="(prefers-color-scheme: light)" srcset="./icons/socials/bluesky-social.svg" />
 <img src="./icons/socials/bluesky-social.svg" width="32" height="32" alt="Bluesky" />
 </picture></a>
-<a href="https://www.twitch.tv/vic_walker" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="./icons/socials/twitch-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="./icons/socials/twitch.svg" />
-<img src="./icons/socials/twitch.svg" width="32" height="32" alt="Twitch" />
-</picture></a>
 </p>
 
 ## Profile Status
