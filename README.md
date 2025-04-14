@@ -20,12 +20,10 @@ Working with QA since 2018, focusing on test automation for various clients and 
 
 * 🌍  I'm based in São Paulo, Brazil
 * 💬  Check my [pronouns page](https://pronouns.page/@Vic_Walker)
-* 🗣️  I speak Portuguese, English, Spanish, and I'm learning French
+* 🗣️  I speak Portuguese, English, Spanish, and a little of French
 * 🎮  See my game portfolio at [itch.io](http://vicwalker.itch.io)
-* 🖥️  I'm currently working full-time from home
 * 📫  You can reach me at my socials below (for faster response, use Bluesky)
-* 🧠  Learning about Data Science, ATproto, and SAP
-* 🌱  I want to learn about Azure
+* 🧠  Learning about AT Protocol, and Azure
 * 😍  I love Virtual, Augmented, and Mixed Realities, and I want to develop again with them
 * ⚡  I like to keep up with new technology
 * 🤝  I'm open to collaborating on Open Source Projects
@@ -97,6 +95,12 @@ Working with QA since 2018, focusing on test automation for various clients and 
 <source media="(prefers-color-scheme: light)" srcset="./icons/skills/pandas-colored.svg" />
 <img src="./icons/skills/pandas-colored.svg" width="36" height="36" alt="Pandas" />
 </picture></a>
+<a href="https://specflow.org" target="_blank" rel="noreferrer">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./icons/skills/specflow.png" />
+<source media="(prefers-color-scheme: light)" srcset="./icons/skills/specflow.png" />
+<img src="./icons/skills/specflow.png" height="36" alt="SpecFlow" />
+</picture></a>
 <a href="https://robotframework.org/" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./icons/skills/robotframework.svg" />
@@ -108,12 +112,6 @@ Working with QA since 2018, focusing on test automation for various clients and 
 <source media="(prefers-color-scheme: dark)" srcset="./icons/skills/cypress-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="./icons/skills/cypress.svg" />
 <img src="./icons/skills/cypress.svg" height="36" alt="Cypress" />
-</picture></a>
-<a href="https://specflow.org" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="./icons/skills/specflow.png" />
-<source media="(prefers-color-scheme: light)" srcset="./icons/skills/specflow.png" />
-<img src="./icons/skills/specflow.png" height="36" alt="SpecFlow" />
 </picture></a></p>
 
 ### Test Tools
