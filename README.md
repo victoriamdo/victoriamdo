@@ -19,12 +19,13 @@ QA Engineer | CTFL-AT | CTAL-TAE
 Working with QA since 2018, focusing on test automation for various clients and products, from Back to Front End, Web to Mobile, both native and hybrid, and data quality, doing functional and non-functional tests. Graduated as a Technologist in Games Development in 2016, and Computer Technician in 2012.
 
 * 🌍  I'm based in São Paulo, Brazil
-* 💬  Check my [pronouns page](https://pronouns.page/@Vic_Walker)
+* 💬  Check my [pronouns page](https://pronouns.page/@Vic_Walker) for multilingual references
 * 🗣️  I speak Portuguese, English, Spanish, and a little of French
 * 🎮  See my game portfolio at [itch.io](http://vicwalker.itch.io)
 * 📫  You can reach me at my socials below (for faster response, use Bluesky)
 * 🧠  Learning about AT Protocol, and Azure
-* 😍  I love Virtual, Augmented, and Mixed Realities, and I want to develop again with them
+* ⭐  Virtual, Augmented, and Mixed Realities are really cool
+* 🌐  Big fan of the decentralized internet
 * ⚡  I like to keep up with new technology
 * 🤝  I'm open to collaborating on Open Source Projects
 
