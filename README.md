@@ -208,7 +208,7 @@ Working with QA since 2018, focusing on test automation for various clients and 
 
 ## Socials
 <p align="left">
-<a href="https://www.linkedin.com/in/victoriamoliveira" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/in/victoriamdo" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./icons/socials/linkedin-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="./icons/socials/linkedin.svg" />
