@@ -224,9 +224,9 @@ Working with QA since 2018, focusing on test automation for various clients and 
 
 ## Profile Status
 <p align="left">
-<a href="https://github.com/VictoriaMachado" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictoriaMachado&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/victoriamdo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriamdo&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </p>
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/victoriamachado/victoriamachado/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/victoriamdo/victoriamdo/output/snake.svg" alt="Snake animation" />
