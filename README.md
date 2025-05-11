@@ -36,31 +36,31 @@ Working with QA since 2018, focusing on test automation for various clients and 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./icons/skills/java-colored.svg" />
 <source media="(prefers-color-scheme: light)" srcset="./icons/skills/java-colored.svg" />
-<img src="./icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
+<img src="./icons/skills/java-colored.svg" width="36" height="36" />
 </picture> Java </a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./icons/skills/python-colored.svg" />
 <source media="(prefers-color-scheme: light)" srcset="./icons/skills/python-colored.svg" />
-<img src="./icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+<img src="./icons/skills/python-colored.svg" width="36" height="36" />
 </picture> Python </a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./icons/skills/csharp-colored.svg" />
 <source media="(prefers-color-scheme: light)" srcset="./icons/skills/csharp-colored.svg" />
-<img src="./icons/skills/csharp-colored.svg" width="36" height="36" alt="C Sharp" />
+<img src="./icons/skills/csharp-colored.svg" width="36" height="36" />
 </picture> C# </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./icons/skills/javascript-colored.svg" />
 <source media="(prefers-color-scheme: light)" srcset="./icons/skills/javascript-colored.svg" />
-<img src="./icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+<img src="./icons/skills/javascript-colored.svg" width="36" height="36" />
 </picture> JavaScript </a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./icons/skills/html5.svg" />
 <source media="(prefers-color-scheme: light)" srcset="./icons/skills/html5.svg" />
-<img src="./icons/skills/html5.svg" width="36" height="36" alt="HTML 5" />
+<img src="./icons/skills/html5.svg" width="36" height="36" />
 </picture> HTML 5 </a></p>
 
 ### Test Frameworks
@@ -69,49 +69,49 @@ Working with QA since 2018, focusing on test automation for various clients and 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./icons/skills/karate-labs-dark.png" />
 <source media="(prefers-color-scheme: light)" srcset="./icons/skills/karate-labs.png" />
-<img src="./icons/skills/karate-labs.png" height="36" alt="Karate" />
+<img src="./icons/skills/karate-labs.png" height="36" />
 </picture> Karate </a>
 <a href="https://cucumber.io" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./icons/skills/cucumber-colored.svg" />
 <source media="(prefers-color-scheme: light)" srcset="./icons/skills/cucumber-colored.svg" />
-<img src="./icons/skills/cucumber-colored.svg" width="36" height="36" alt="Cucumber" />
+<img src="./icons/skills/cucumber-colored.svg" width="36" height="36" />
 </picture> Cucumber </a>
 <a href="https://rest-assured.io" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./icons/skills/rest-assured-dark.png" />
 <source media="(prefers-color-scheme: light)" srcset="./icons/skills/rest-assured.png" />
-<img src="./icons/skills/rest-assured.png" height="36" alt="REST Assured" />
+<img src="./icons/skills/rest-assured.png" height="36" />
 </picture> REST Assured </a>
 <a href="https://docs.pytest.org/en/stable/" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./icons/skills/pytest.svg" />
 <source media="(prefers-color-scheme: light)" srcset="./icons/skills/pytest.svg" />
-<img src="./icons/skills/pytest.svg" width="36" height="36" alt="PyTest" />
+<img src="./icons/skills/pytest.svg" width="36" height="36" />
 </picture> PyTest </a>
 <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./icons/skills/pandas-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="./icons/skills/pandas-colored.svg" />
-<img src="./icons/skills/pandas-colored.svg" width="36" height="36" alt="Pandas" />
+<img src="./icons/skills/pandas-colored.svg" width="36" height="36" />
 </picture> Pandas </a>
 <a href="https://specflow.org" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./icons/skills/specflow.png" />
 <source media="(prefers-color-scheme: light)" srcset="./icons/skills/specflow.png" />
-<img src="./icons/skills/specflow.png" height="36" alt="SpecFlow" />
+<img src="./icons/skills/specflow.png" height="36" />
 </picture> SpecFlow </a>
 <a href="https://robotframework.org/" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./icons/skills/robotframework.svg" />
 <source media="(prefers-color-scheme: light)" srcset="./icons/skills/robotframework.svg" />
-<img src="./icons/skills/robotframework.svg" height="36" alt="Robot Framework" />
+<img src="./icons/skills/robotframework.svg" height="36" />
 </picture> Robot </a>
 <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./icons/skills/cypress-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="./icons/skills/cypress.svg" />
-<img src="./icons/skills/cypress.svg" height="36" alt="Cypress" />
+<img src="./icons/skills/cypress.svg" height="36" />
 </picture> Cypress </a></p>
 
 ### Test Tools
@@ -120,31 +120,31 @@ Working with QA since 2018, focusing on test automation for various clients and 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./icons/skills/selenium-colored.svg" />
 <source media="(prefers-color-scheme: light)" srcset="./icons/skills/selenium-colored.svg" />
-<img src="./icons/skills/selenium-colored.svg" width="36" height="36" alt="Selenium" />
+<img src="./icons/skills/selenium-colored.svg" width="36" height="36" />
 </picture> Selenium </a>
 <a href="https://appium.io/docs/en/latest/" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./icons/skills/appium-colored.svg" />
 <source media="(prefers-color-scheme: light)" srcset="./icons/skills/appium-colored.svg" />
-<img src="./icons/skills/appium-colored.svg" width="36" height="36" alt="Appium" />
+<img src="./icons/skills/appium-colored.svg" width="36" height="36" />
 </picture> Appium </a>
 <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./icons/skills/jmeter-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="./icons/skills/jmeter.svg" />
-<img src="./icons/skills/jmeter.svg" width="36" height="36" alt="Apache JMeter" />
+<img src="./icons/skills/jmeter.svg" width="36" height="36" />
 </picture> JMeter </a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./icons/skills/postman.svg" />
 <source media="(prefers-color-scheme: light)" srcset="./icons/skills/postman.svg" />
-<img src="./icons/skills/postman.svg" width="36" height="36" alt="Postman" />
+<img src="./icons/skills/postman.svg" width="36" height="36" />
 </picture> Postman </a>
 <a href="https://insomnia.rest/" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./icons/skills/insomnia.svg" />
 <source media="(prefers-color-scheme: light)" srcset="./icons/skills/insomnia.svg" />
-<img src="./icons/skills/insomnia.svg" width="36" height="36" alt="Insomnia" />
+<img src="./icons/skills/insomnia.svg" width="36" height="36" />
 </picture> Insomnia </a></p>
 
 ### CI/CD Workflows and Pipelines
@@ -153,19 +153,19 @@ Working with QA since 2018, focusing on test automation for various clients and 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./icons/skills/aws-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="./icons/skills/aws-colored.svg" />
-<img src="./icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" />
+<img src="./icons/skills/aws-colored.svg" width="36" height="36" />
 </picture> AWS </a>
 <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./icons/skills/githubactions-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="./icons/skills/githubactions.svg" />
-<img src="./icons/skills/githubactions-dark.svg" width="36" height="36" alt="GitHub Actions" />
+<img src="./icons/skills/githubactions-dark.svg" width="36" height="36" />
 </picture> GitHub Actions </a>
 <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./icons/skills/jenkins-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="./icons/skills/jenkins.svg" />
-<img src="./icons/skills/jenkins-dark.svg" width="36" height="36" alt="Jenkins" />
+<img src="./icons/skills/jenkins-dark.svg" width="36" height="36" />
 </picture> Jenkins </a></p>
 
 ### Dev Tools
@@ -174,13 +174,13 @@ Working with QA since 2018, focusing on test automation for various clients and 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./icons/skills/maven-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="./icons/skills/maven-colored.svg" />
-<img src="./icons/skills/maven-colored.svg" width="36" height="36" alt="Maven" />
+<img src="./icons/skills/maven-colored.svg" width="36" height="36" />
 </picture> Maven </a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./icons/skills/nodejs-colored.svg" />
 <source media="(prefers-color-scheme: light)" srcset="./icons/skills/nodejs-colored.svg" />
-<img src="./icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
+<img src="./icons/skills/nodejs-colored.svg" width="36" height="36" />
 </picture> NodeJS </a></p>
 
 ### Databases
@@ -189,19 +189,19 @@ Working with QA since 2018, focusing on test automation for various clients and 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./icons/skills/mysql-colored.svg" />
 <source media="(prefers-color-scheme: light)" srcset="./icons/skills/mysql-colored.svg" />
-<img src="./icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
+<img src="./icons/skills/mysql-colored.svg" width="36" height="36" />
 </picture> MySQL </a>
 <a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./icons/skills/aws-dynamodb.svg" />
 <source media="(prefers-color-scheme: light)" srcset="./icons/skills/aws-dynamodb.svg" />
-<img src="./icons/skills/aws-dynamodb.svg" width="36" height="36" alt="Amazon DynamoDB" />
+<img src="./icons/skills/aws-dynamodb.svg" width="36" height="36" />
 </picture> DynamoDB </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./icons/skills/mongodb.svg" />
 <source media="(prefers-color-scheme: light)" srcset="./icons/skills/mongodb.svg" />
-<img src="./icons/skills/mongodb.svg" width="36" height="36" alt="MongoDB" />
+<img src="./icons/skills/mongodb.svg" width="36" height="36" />
 </picture> MongoDB </a></p>
 
 ## Socials
@@ -210,13 +210,13 @@ Working with QA since 2018, focusing on test automation for various clients and 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./icons/socials/linkedin-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="./icons/socials/linkedin.svg" />
-<img src="./icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
+<img src="./icons/socials/linkedin.svg" width="32" height="32" />
 </picture> LinkedIn </a>
 <a href="https://bsky.app/profile/vicwalker.bsky.social" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./icons/socials/bluesky-social-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="./icons/socials/bluesky-social.svg" />
-<img src="./icons/socials/bluesky-social.svg" width="32" height="32" alt="Bluesky" />
+<img src="./icons/socials/bluesky-social.svg" width="32" height="32" />
 </picture> Bluesky </a></p>
 
 ## Profile Status
