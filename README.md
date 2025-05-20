@@ -1,33 +1,20 @@
-<!--
-- 🌱 I’m currently learning ...
-- 🤝 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ✉️ You can contact me at ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 🖥️ ...
--->
-
 Hi 👋 My name is Victoria
 ================================================================================================================================
 
 QA Engineer | CTFL-AT | CTAL-TAE
 -----------------------------------------
 
-Working with QA since 2018, focusing on test automation for various clients and products, from Back to Front End, Web to Mobile, both native and hybrid, and data quality, doing functional and non-functional tests. Graduated as a Technologist in Games Development in 2016, and Computer Technician in 2012.
+Working with QA since 2018, focusing on test automation for various clients and products, from Back to Front End, Web to Mobile, both native and hybrid, and data quality, doing functional and non-functional tests. Graduated as a Technologist in Game Development in 2016, and Computer Technician in 2012.
 
-* 🌍  I'm based in São Paulo, Brazil
-* 💬  Check my [pronouns page](https://pronouns.page/u/vicwalker) for multilingual references
-* 🗣️  I speak Portuguese, English, Spanish, and a little of French
-* 🎮  See my game portfolio at [itch.io](http://vicwalker.itch.io)
-* 📫  You can reach me at my socials below (for faster response, use Bluesky)
-* 🧠  Learning about AT Protocol
-* ⭐  Virtual, Augmented, and Mixed Realities are really cool
-* 🌐  Big fan of the decentralized internet
-* ⚡  I like to keep up with new technology
-* 🤝  I'm open to collaborating on Open Source Projects
+* Based in São Paulo, Brazil
+* Check my [pronouns page](https://pronouns.page/u/vicwalker) for multilingual references
+* I speak Portuguese, English, Spanish, and a little of French
+* See my game portfolio at [itch.io](http://vicwalker.itch.io)
+* Learning about AT Protocol
+* Someday I want to do a Virtual, Augmented, or Mixed Realities project again
+* I'm open to collaborating on Open Source Projects
+* You can reach me at my socials below (for faster response, use Bluesky)
+* My profile icon was made by [Jana](https://alphajn.carrd.co/), if you want to commission awesome art from my friend
 
 ## Skills
 ### Programming Languages
