@@ -47,7 +47,7 @@ Working with QA since 2018, focusing on test automation for various clients and 
 
 ### CI/CD Workflows and Pipelines
 <p align="left">
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="./icons/skills/aws-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./icons/skills/aws-colored.svg" /><img src="./icons/skills/aws-colored.svg" width=36 height=36 /></picture> AWS </a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="./icons/skills/aws-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./icons/skills/aws-colored.svg" /><img src="./icons/skills/aws-dark.svg" width=36 height=36 /></picture> AWS </a>
 <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="./icons/skills/githubactions-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./icons/skills/githubactions.svg" /><img src="./icons/skills/githubactions-dark.svg" width=36 height=36 /></picture> GitHub Actions </a>
 <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="./icons/skills/jenkins-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./icons/skills/jenkins.svg" /><img src="./icons/skills/jenkins-dark.svg" width=36 height=36 /></picture> Jenkins </a>
 </p>
