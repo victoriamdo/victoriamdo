@@ -4,15 +4,15 @@ Hi 👋 My name is Victoria
 QA Engineer | CTFL-AT | CTAL-TAE
 -----------------------------------------
 
-Working with QA since 2018, focusing on test automation for various clients and products, from Back to Front End, Web to Mobile, both native and hybrid, and data quality, doing functional and non-functional tests. Graduated as a Technologist in Game Development in 2016, and Computer Technician in 2012.
+Working with QA since 2018, focusing on test automation for various clients and products, from Back to Front End, Web to Mobile, both native and hybrid, data quality, doing functional and non-functional tests. Graduated as a Technologist in Game Development in 2016, and as a Computer Technician in 2012.
 
 * Based in São Paulo, Brazil
 * Check my [pronouns page](https://pronouns.page/u/vicwalker) for multilingual references
-* I speak Portuguese, English, Spanish, and a little of French
+* I speak Portuguese, English, Spanish, and a little French
 * See my game portfolio at [itch.io](http://vicwalker.itch.io)
 * Learning about AT Protocol
-* Someday I want to do a Virtual, Augmented, or Mixed Realities project again
-* I'm open to collaborating on Open Source Projects
+* Someday I want to do Virtual, Augmented, or Mixed Reality projects again
+* I'm open to collaborating on Open Source and Open Software projects
 * You can reach me at my socials below (for faster response, use Bluesky)
 * My profile icon was made by [Jana](https://alphajn.carrd.co/), if you want to commission awesome art from my friend
 
