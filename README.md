@@ -13,8 +13,9 @@ Working with QA since 2018, focusing on test automation for various clients and 
 * Learning about AT Protocol
 * Someday I want to do Virtual, Augmented, or Mixed Reality projects again
 * I'm open to collaborating on Open Source and Open Software projects
+* I can help you translate your software to Brazilian Portuguese
 * You can reach me at my socials below (for faster response, use Bluesky)
-* My profile icon was made by [Jana](https://alphajn.carrd.co/), if you want to commission awesome art from my friend
+* My profile picture was made by [Jana](https://alphajn.carrd.co/), if you want to commission awesome art from my friend
 
 ## Skills
 ### Programming Languages
