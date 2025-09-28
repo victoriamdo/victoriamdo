@@ -70,7 +70,7 @@ Working with QA since 2018, focusing on test automation for various clients and 
 ## Socials
 <p align="left">
 <a href="https://www.linkedin.com/in/victoriamdo" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="./icons/socials/linkedin-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./icons/socials/linkedin.svg" /><img src="./icons/socials/linkedin.svg" width=32 height=32 /></picture> LinkedIn </a>
-<a href="https://bsky.app/profile/vicwalker.bsky.social" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="./icons/socials/bluesky-social-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./icons/socials/bluesky-social.svg" /><img src="./icons/socials/bluesky-social.svg" width=32 height=32 /></picture> Bluesky </a>
+<a href="https://bsky.app/profile/did:plc:fip3nyk6tjo3senpq4ei2cxw" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="./icons/socials/bluesky-social-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./icons/socials/bluesky-social.svg" /><img src="./icons/socials/bluesky-social.svg" width=32 height=32 /></picture> Bluesky </a>
 <a href="https://github.com/victoriamdo" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="./icons/socials/github-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./icons/socials/github.svg" /><img src="./icons/socials/github.svg" width=32 height=32 /></picture> GitHub </a>
 </p>
 
