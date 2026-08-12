@@ -10,7 +10,8 @@ Working with QA since 2018, focusing on test automation for various clients and 
 * Check my [pronouns page](https://pronouns.page/u/vicwalker) for multilingual references
 * I speak Portuguese, English, Spanish, and a little French
 * See my game portfolio at [itch.io](http://vicwalker.itch.io)
-* Learning about AT Protocol
+* Learning about AT Protocol and ActivityPub
+* Founder of **ATBrasil** [@atproto.com.br](https://bsky.app/profile/atproto.com.br)
 * Someday I want to do Virtual, Augmented, or Mixed Reality projects again
 * I'm open to collaborating on Open Source and Open Software projects
 * I can help you translate your software to Brazilian Portuguese
